@@ -1,6 +1,6 @@
 # Copy Autoit
 
-AutoIt sketch that copies changed files from source to dest. 
+[AutoIt sketch](https://www.autoitscript.com/site/autoit/downloads/) that copies changed files from source to dest. 
 When added to Taskscheduler it will make a backup of the changed files. 
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/4ff8c2f5-3cab-4ef2-97b2-227e42cd7e50" />
