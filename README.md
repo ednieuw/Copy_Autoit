@@ -1,5 +1,10 @@
-# Copy_Autoit
-AutoIt sketch that copies changed files from source to dest .
+# Copy Autoit
+
+AutoIt sketch that copies changed files from source to dest. 
+When added to Taskscheduler it will make a backup of the changed files. 
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/4ff8c2f5-3cab-4ef2-97b2-227e42cd7e50" />
+
 Start the exe-files with Taskscheduler.
 The interupting mode starts a windoes in which the copied files are displayed. This is annoying when you are typing and the windows takes takes over.
 With the "silent mode" sketch the backup process is running in the background.
